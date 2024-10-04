@@ -38,7 +38,7 @@ def anadidor():
     file = open("clients_sequencial.txt","a")
     file.write(resultado)
   
-  
+
 # Mostrar todos los usuarios  
 def todo():
     # Abrimos el fichero en modo lectura
