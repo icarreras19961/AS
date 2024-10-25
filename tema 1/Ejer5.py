@@ -32,7 +32,7 @@ def modificador():
   nombre = input()
   print("Cual es su nuevo salario")
   newSalario = input()
-  
+
   # el bucle que detecta la linea donde esta el nombre
   file = open("datos.txt","r")
   i=1
