@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "ejer2",
+            "request": "launch",
+            "mainClass": "ejer1.ejer2",
+            "projectName": "AS_fd0aca5c"
+        },
+        {
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
